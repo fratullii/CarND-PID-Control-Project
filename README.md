@@ -1,7 +1,3 @@
-$$
-
-$$
-
 # CarND-Controls-PID
 ### Effect of PID controller in the implementation
 
