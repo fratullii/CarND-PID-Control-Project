@@ -40,6 +40,10 @@ class PID {
   double d_error;
 
   /**
+   * Previous error
+   */
+  double prev_cte;
+  /**
    * PID Coefficients
    */ 
   double Kp;
