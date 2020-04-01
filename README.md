@@ -23,4 +23,4 @@ The PID was manually tuned, following an approach conceptually similar to the Zi
 
 First off, all the gains were set to 0. Then Kp was set, starting from a value suggested by other Udacity students. Once a value leading to reasonable oscillations was found, the Kd was set to introduce the derivative part in the controller. Since the integral part only matters on the long shot, the first turns of our track are well enough to evaluate good Kp and Kd final values. After increasing Kd to a sufficient value, Ki was finally introduced. 
 
-Once this phase concluded, I played around with value to find the optimal ones.
+Once this phase was concluded, I played around with value to find the optimal ones.
